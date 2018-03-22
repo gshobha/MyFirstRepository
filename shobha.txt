@@ -1,1 +1,3 @@
 This is a dummy file created for training
+
+There are new changes made to add the updated file to Git server
